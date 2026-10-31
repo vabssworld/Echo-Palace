@@ -1,0 +1,22 @@
+{
+  "name": "reverie-the-house-that-remembers",
+  "version": "1.0.0",
+  "description": "A surreal browser-based puzzle-adventure game where normal physics does not exist, your reflection has its own intentions, and every room remembers your actions.",
+  "scripts": {
+    "build": "node build.js",
+    "test": "node test.js",
+    "serve": "python -m http.server 8080"
+  },
+  "keywords": [
+    "puzzle-adventure",
+    "surreal",
+    "gravity",
+    "reflection",
+    "room-memory",
+    "canvas",
+    "react",
+    "typescript"
+  ],
+  "author": "Indie Game Developer",
+  "license": "MIT"
+}
